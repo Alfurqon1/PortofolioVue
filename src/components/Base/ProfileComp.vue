@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-md text-center mt-4">
         <div class="profile">
-          <img src="/profile_img.svg" alt="" />
+          <img src="../../assets/Profile_img.svg" alt="" />
         </div>
       </div>
     </div>
