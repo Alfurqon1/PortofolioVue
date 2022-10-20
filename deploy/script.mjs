@@ -31,6 +31,7 @@ import fs from "node:fs";
   } catch (e) {
     // eslint-disable-next-line no-console
     console.log(e.message);
+    // eslint-disable-next-line no-undef
     process.exit(1);
   }
 })();
